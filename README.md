@@ -7,6 +7,7 @@ Welcome to the Social App! This is a beginner-friendly project that demonstrates
 - [Social](#social)
   - [Table of Contents](#table-of-contents)
   - [Features](#features)
+  - [Preview](#preview)
   - [Getting Started](#getting-started)
   - [Alternatives to PostgreSQL](#alternatives-to-postgresql)
   - [Contributing](#contributing)
@@ -21,6 +22,10 @@ Welcome to the Social App! This is a beginner-friendly project that demonstrates
 - Integration with Prisma for database management
 - Responsive and modern UI design using Tailwind CSS and Shadcn UI
 - API communication with tRPC
+
+## Preview
+![Bladeforge-Light](public/Bladeforge-Light.png)
+![Bladeforge-Dark](public/Bladeforge-Dark.png)
 
 ## Getting Started
 
